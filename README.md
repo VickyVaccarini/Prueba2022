@@ -22,3 +22,5 @@ agregar emoji https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.m
 
 :calendar:
 >**Fecha:** _23-03-22_
+
+Cambio de rama develop (git branch)
